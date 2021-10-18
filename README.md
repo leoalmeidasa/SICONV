@@ -1,10 +1,10 @@
 # SICONV
 
-![GitHub repo size](https://img.shields.io/github/repo-size/leoalmeidasa/README-template?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/leoalmeidasa/README-template?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/leoalmeidasa/README-template?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/leoalmeidasa/README-template?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/leoalmeidasa/README-template?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/leoalmeidasa/SICONV?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/leoalmeidasa/SICONV?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/leoalmeidasa/SICONV?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/leoalmeidasa/SICONV?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/leoalmeidasa/SICONV?style=for-the-badge)
 
 ## 💻 Pré-requisitos
 
